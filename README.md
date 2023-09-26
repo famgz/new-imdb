@@ -1,5 +1,5 @@
 # new-imdb
-A selenium semi-automation tool to help IMDb contributors creating new film entries through the [Adding a New Title](https://contribute.imdb.com/updates/edit?update=title) page.
+A selenium semi-automation tool to assist IMDb contributors creating new film entries through the [Adding a New Title](https://contribute.imdb.com/updates/edit?update=title) page.
 
 Must be logged in to IMDb.
 
