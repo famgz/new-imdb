@@ -1,0 +1,4 @@
+selenium==4.1.3
+
+famgz-utils @ git+https://github.com/famgz/famgz-utils.git@main
+
