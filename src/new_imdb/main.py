@@ -7,6 +7,8 @@ import shlex
 import subprocess
 from famgz_utils import print, timeit, kill_process, translate_, clean_name, open_selenium
 
+from .config import cookies
+
 IMDB_FORM_URL = 'https://contribute.imdb.com/updates?update=title'
 
 url_test = 'https://pro.festivalscope.com/film/much-in-common'
